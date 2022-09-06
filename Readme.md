@@ -1,3 +1,3 @@
 ## TypeScript-Dev-Resource
 
-This repo contains Reference for TypeScript
+This repo contains topics and Reference for TypeScript
